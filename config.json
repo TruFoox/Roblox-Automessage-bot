@@ -1,0 +1,7 @@
+{
+    "botToken": "",
+    "message": "Hello!",
+    "messageDescription": "Hey there!",
+	"threads": 3,
+	"autoThreads": "True"
+}
