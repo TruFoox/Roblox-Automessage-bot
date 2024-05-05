@@ -1,5 +1,5 @@
 {
-    "botToken": "",
+    "botToken": "Put discord bot token here",
     "message": "Hello!",
     "messageDescription": "Hey there!",
 	"threads": 3,
