@@ -22,5 +22,8 @@ Open run.py to send messages AFTER you run the userscraper
 
 MAKE SURE THE GROUP YOU SCRAPE IS VERY LARGE. THIS BOT CAN ONLY SEND MESSAGES TO PEOPLE WITH "Who can message me?" SET TO "Everyone" IN THEIR SETTINGS
 
+
+
 *** DM ME IF YOU HAVE QUESTIONS ***
+
 https://discord.com/users/583339013809766437
