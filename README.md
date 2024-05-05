@@ -18,7 +18,7 @@ Put proxies into proxies.txt and spamProxies.txt (each on a new line)
 
 Open userScraper to scrape a group for users to send messages to
 
-Open run.py to send messages AFTER you run the userscraper
+Open run.py to send messages AFTER you run the userscraper 
 
 MAKE SURE THE GROUP YOU SCRAPE IS VERY LARGE. THIS BOT CAN ONLY SEND MESSAGES TO PEOPLE WITH "Who can message me?" SET TO "Everyone" IN THEIR SETTINGS
 
