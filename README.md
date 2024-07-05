@@ -4,7 +4,8 @@ This bot allows you to scrape a group's members for people who have their DMs op
 
 This was originally made for my own usage, but ive since retired it. Now, im putting the code here for anyone to use
 However, because I was not planning on giving this code to anyone else, the code contains no comments
-To begin sending messages you must use the 
+
+USE !help ON DISCORD TO SEE ALL COMMANDS
 
 I may add a proper README with instructions in the future
 
