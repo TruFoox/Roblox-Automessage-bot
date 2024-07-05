@@ -11,6 +11,7 @@ with open("config.json") as jsonfile:
     messageDescription = config["messageDescription"]
     num_threads = config["threads"]
     autoThreads = config["autoThreads"]
+    groupID = config["YourGroupID"]
 with open('proxys.txt', 'r') as f:
     proxys = [line.strip() for line in f]
 
@@ -189,7 +190,6 @@ async def on_message(message):
                 break
         if whitelisted == True:
             #bot stuff
-            groupID = 32013451
             getGroup = requests.get(f"https://groups.roblox.com/v1/groups/{groupID}").json()
             groupName = getGroup["name"]
             members = getGroup["memberCount"]
