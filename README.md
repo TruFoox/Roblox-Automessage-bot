@@ -20,7 +20,7 @@ Put your discord ID into whitelistedusers.json
 
 Put cookies into cookies.txt (each on a new line)
 
-Put proxies into proxies.txt and spamProxies.txt (each on a new line). MAKE SURE THEY ARE FOR THE SAME REGION AS YOUR COOKIES.
+Put proxies into proxies.txt and spamProxies.txt (each on a new line). MAKE SURE THEY ARE FOR THE SAME REGION AS YOUR COOKIES. FREE PROXIES DONT WORK
 
 Open userScraper to scrape a group for users to send messages to
 
