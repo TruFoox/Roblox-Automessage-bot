@@ -44,7 +44,7 @@ def send(idListNum, num, threadCount):
             cookie = random.choice(cookies)
             s = requests.session()
             s.cookies[".ROBLOSECURITY"] = cookie
-            if True:
+            try:
                 s.headers['X-CSRF-TOKEN'] = s.post("https://auth.roblox.com/v2/login",proxies=proxies, timeout=2).headers['X-CSRF-TOKEN']
                 sendTo = userID
                 payload = {"subject":messageTop,"body":f"{messageDescription} {groupLink}","recipientid":sendTo}
@@ -116,8 +116,13 @@ def send(idListNum, num, threadCount):
                     #numWait += 1
                     #while cookiesCleaned == False:
                         #wait_event.wait()
-            else:
-                print(f"[X] (THREAD {num+1}) Fatal error")
+            except Exception as error:
+                print(Fore.RED + style.BOLD + "Whoops, something is wrong! - Please check your config (See AboutTheConfig.txt for help)" + style.END)
+                print()
+                print(style.BOLD + "ERROR INFO:" + style.END, error)
+                print()
+                input("Press Enter to exit...")
+                exit()
             time.sleep(1)
 intents = discord.Intents.default()
 intents.guilds = True
