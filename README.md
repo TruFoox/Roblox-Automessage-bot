@@ -1,5 +1,6 @@
-*** DM ME IF YOU HAVE QUESTIONS ***   
+*** DM ME IF YOU HAVE PROBLEMS ***   
 Discord Username - TruFoox 
+(I will not help you if you do not know the basics of setting it up. i will only help if you are having issues with setup or misc problems)
 
 This bot allows you to scrape a group's members for people who have their DMs open on Roblox and then send them all a custom message
 
