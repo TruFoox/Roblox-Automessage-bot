@@ -4,8 +4,7 @@ Discord Username - TruFoox
 
 This bot allows you to scrape a group's members for people who have their DMs open on Roblox and then send them all a custom message
 
-This was originally made for my own usage, but ive since retired it. Now, im putting the code here for anyone to use
-However, because I was not planning on giving this code to anyone else, the code contains no comments and the instructions are pretty bad
+This was originally made for my own usage, but ive since retired it. Now, im putting the code here for anyone to use. However, because I was not planning on giving this code to anyone else, the code contains no comments and the instructions are pretty bad
 
 USE !help ON DISCORD TO SEE ALL COMMANDS
 
