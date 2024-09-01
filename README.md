@@ -2,6 +2,8 @@
 Discord Username - TruFoox 
 (I will not help you if you do not know the basics of setting it up. i will only help if you are having issues with setup or misc problems)
 
+YOUR COOKIES NEED TO BE EMAIL VERIFIED TO SEND MESSAGES
+
 This bot allows you to scrape a group's members for people who have their DMs open on Roblox and then send them all a custom message
 
 This was originally made for my own usage, but ive since retired it. Now, im putting the code here for anyone to use. However, because I was not planning on giving this code to anyone else, the code contains no comments and the instructions are pretty bad
